@@ -1,9 +1,8 @@
 # 🛡️ Antivirus-Software - Secure Your Digital World
 
-
-
-https://github.com/user-attachments/assets/8926d7ce-aca4-4ac8-9579-276e029aedd9
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7de04fed-fa69-4979-816c-1dbb9c851ada" alt="antivirus-detecting-9792235-8016577">
+</p>
 
 ---
 
@@ -40,4 +39,3 @@ The rapid evolution of cyber threats demands a proactive and intelligent defense
 Our objective is to deliver **reliable, efficient, and user-friendly antivirus software** that acts as your unwavering guardian in the digital realm.
 
 ---
-
