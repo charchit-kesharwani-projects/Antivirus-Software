@@ -1,7 +1,7 @@
 # 🛡️ Antivirus-Software - Secure Your Digital World
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7de04fed-fa69-4979-816c-1dbb9c851ada" alt="antivirus-detecting-9792235-8016577">
+  <img src="https://github.com/user-attachments/assets/eccb0139-a2d6-4d76-bd55-c2c79dd895e2" alt="antivirus-detecting-9792235-8016577">
 </p>
 
 ---
